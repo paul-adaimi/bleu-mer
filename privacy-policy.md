@@ -2,29 +2,81 @@
 
 Effective Date: 11/15/2024
 
-**Bleumer** ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+**Bleumer** ("I", "my", or "me") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect the personal information you provide when using our app.
+
+---
 
 ## Information We Collect
-We collect the following types of information to provide our services:
-- **Delivery Details**: Your name, address, and contact information for order delivery.
-- **Usage Information**: Anonymous data to improve app performance and user experience.
+
+We collect the following information to provide and improve our services:
+
+1. **Personal Information:**
+   - First Name
+   - Last Name
+   - Phone Number
+   - Address
+
+2. **Location Information:**
+   - We collect your current location to suggest delivery addresses or improve order accuracy.
+
+3. **Usage Data:**
+   - Information about how you interact with the app (e.g., navigation, app performance) to enhance your user experience.
+
+---
 
 ## How We Use Your Information
-- To process and deliver your orders.
-- To analyze app usage for improvements.
 
-## Sharing Your Information
-We do not share your personal information with third parties except:
-- When required by law.
-- To fulfill delivery services (e.g., logistics providers).
+The information we collect is used for the following purposes:
+
+- To process and deliver your orders.
+- To improve app functionality and personalize user experiences.
+- To contact you regarding your orders or account.
+
+---
+
+## How We Share Your Information
+
+We only share your information when necessary:
+
+- **With Delivery Partners:** To ensure accurate delivery of your orders.
+- **As Required by Law:** If disclosure is necessary to comply with legal obligations.
+
+We do not sell your personal information to third parties.
+
+---
+
+## Location Information
+
+- **Purpose:** Your current location is used to autofill delivery addresses and optimize delivery services.
+- **Consent:** You can disable location services in your device settings. However, this may limit some app features.
+
+---
+
+## Data Retention and Security
+
+- **Retention:** We store your personal data only as long as it is necessary to provide our services or as required by law.
+- **Security:** We implement industry-standard measures to protect your data. However, no system is entirely secure.
+
+---
 
 ## Your Rights
-You can:
-- Request to delete your personal information.
-- Contact us for questions or concerns.
+
+You have the right to:
+
+1. Request access to the personal data we hold about you.
+2. Request corrections to your personal information.
+3. Request deletion of your data, subject to legal requirements.
+
+To exercise these rights, please contact me at paul@adaimi.com
+
+---
 
 ## Contact Us
-If you have any questions, please contact us at:
-- Email: paul@adaimi.com
 
-Thank you for trusting us with your data!
+If you have any questions about this Privacy Policy or our data practices, please contact me at:
+
+- **Email:** paul@adaimi.com
+
+---
+
+Thank you for trusting me to deliver premium salmon products to your home!
